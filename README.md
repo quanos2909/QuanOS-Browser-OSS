@@ -1,4 +1,5 @@
 # QuanOS Browser OSS
+### Latest release: v15.0.1-v33a561-oss
 The open-source version of QuanOS Browser, for you to make a project
 
 # Why?
