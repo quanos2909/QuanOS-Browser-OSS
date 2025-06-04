@@ -8,4 +8,4 @@ QuanOS Browser will soon end of support, in meantime, we still maintain the Quan
 # Use case
 - Make a project
 - Build your own browser
-- Daily usage
+- Daily usage (advanced users)
